@@ -1,7 +1,7 @@
-<h1 align="center">Delivery de pizzas</h1>
+<h1 align="center">Jogo da velha</h1>
 
 <p align="center" dir="auto">
-  <img alt="GitHub" src="https://img.shields.io/github/license/caiquedv/portfolio_tic-tac-toe?style=plastic">  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/caiquedv/portfolio_pizza_delivery?style=plastic">
+  <img alt="GitHub" src="https://img.shields.io/github/license/caiquedv/portfolio_tic-tac-toe?style=plastic">  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/caiquedv/portfolio_tic-tac-toe?style=plastic">
 </p>
 
 <p align="center"><img alt="Mockup" src="./mockup-velha.png"></p>
